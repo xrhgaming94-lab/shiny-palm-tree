@@ -1,0 +1,5 @@
+cfonts
+pycryptodome
+protobuf
+requests
+aiohttp=3.13.3
