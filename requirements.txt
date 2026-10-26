@@ -1,5 +1,6 @@
-cfonts
+flask
 pycryptodome
 protobuf
 requests
-aiohttp=3.13.3
+aiohttp==3.13.3
+google-play-scraper
